@@ -80,7 +80,9 @@ Useful tool for investing, tracking your portfolio, doing research on stocks and
 | FinanceDrip | [website](https://www.financedrip.com/) | Tracking | FinanceDrip is a portfolio tracker/simulator |
 | DcaPal | [website](https://dcapal.com/) | Asset Allocation | DcaPal is a privacy friendly asset allocation tool |
 | 360track | [website](https://360track.me/en/) | Tracking | 360track is a portfolio tracker and wealth management webapp |
-| Ghostfolio | [website](https://github.com/ghostfolio/ghostfolio) | Tracking | Ghostfolio is a wealth tracker app |
+| Sossoldi | [repo](https://github.com/RIP-Comm/sossoldi) | Tracking | Sossoldi is a portfolio tracker and wealth management app, built by ripsters (community revolving around the italian youtuber mr. Rip) |
+| Firefly III | [website](https://firefly-iii.org/) | Tracking | Firefly III is a self hosted personal finance manager |
+| Ghostfolio | [repo](https://github.com/ghostfolio/ghostfolio) | Tracking | Ghostfolio is a wealth tracker app |
 
 #### Broker list
 
