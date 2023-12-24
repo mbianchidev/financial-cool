@@ -7,13 +7,22 @@ The repository intends to give visibility to these tools and stimulate the commu
 
 ### Mantained by
 
-- **[Matteo Bianchi](https://github.com/mbianchidev)** <a href="https://www.buymeacoffee.com/mbianchidev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>
+- **[Matteo Bianchi](https://github.com/mbianchidev)** 
+
+<a href="https://www.buymeacoffee.com/mbianchidev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>
 
 ### Disclaimer
 
 This repository is not affiliated or endorsed by any of the listed tools, products or communities.
 Any investment decision you make is solely your responsibility, and you should do your own research before investing.
 This list is BIASED, if a service is missing it means I do not like it or don't know much about it, so feel free to open a PR to add it and I will review it.
+
+#### Templates
+
+| Name | Url | Type | Description |
+| --- | --- | --- | --- |
+| Templates for NetWorth and expenses | [link](https://drive.google.com/drive/u/3/folders/16HO215slriMmPC2h3H4eXY4gEooUB-Ei) | Google Sheet | These are my templates for NW and expenses, they are basically an improved and more automated version of Mr.rip's templates ([mr.rip/nw](mr.rip/nw)) |
+
 
 #### Community list
 
