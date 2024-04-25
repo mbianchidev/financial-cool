@@ -5,6 +5,8 @@ You won't find the Bloomberg terminal listed here, but you will find a lot of us
 
 The repository intends to give visibility to these tools and stimulate the community to use them and, why not, to growing the personal finance ecosystem.
 
+!! Invest at your own risk, do your research before buying any product. Remember that any promise of high hield in the short term is either too risky or a lie.
+
 ### Mantained by
 
 - **[Matteo Bianchi](https://github.com/mbianchidev)** 
